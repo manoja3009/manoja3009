@@ -1,6 +1,6 @@
 Hello I am ManojKumar A
 
-I am a passionate and detail-oriented software test engineer with a strong foundation in software testing principles and methodologies. I am eager to apply my skills and 
+I am a passionate and detail-oriented software test engineer with a strong foundation in software testing principles and methodologies. <br>I am eager to apply my skills and 
 knowledge to contribute to the development of high-quality software.
 
 SKILLS
