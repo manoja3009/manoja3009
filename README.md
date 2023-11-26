@@ -18,7 +18,7 @@ PERSONAL PROJECTS:
 2. Wrote 50+ comprehensive manual test cases for the OpenCart website.
    Project Description: Written Test cases On Login, Registration
 
-EDUCATION: >br>
+EDUCATION: <br>
 Bachelor Of Computer Applications [Bangalore University]
 8.2 CGPA
 
