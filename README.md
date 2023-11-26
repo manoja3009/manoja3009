@@ -23,5 +23,5 @@ Bachelor Of Computer Applications [Bangalore University]
 8.2 CGPA
 
 CONTACT DETAILS:
-Email: manoj.a3009@gmail.com
+Email: manoj.a3009@gmail.com <br>
 GitHub: https://github.com/manoja3009
