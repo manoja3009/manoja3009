@@ -1,15 +1,15 @@
-Hello I am ManojKumar A
+<b>Hello I am ManojKumar A</b>
 
-<p> I am a passionate and detail-oriented software test engineer with a strong foundation in software testing principles and methodologies. I am eager to apply my skills and 
-knowledge to contribute to the development of high-quality software. </p>
-</p>
-SKILLS
+CAREER OBJECTIVE:
+<p> To secure a position as a software tester in a dynamic and innovative organization where i can utilize my strong analytical and problem-solving skills to contribute to the delivery of high-quality software products. </p>
+
+SKILLS:
 1. Manual Testing
 2. Software Development Life Cycle
 3. Software Test Life Cycle
 4. Agile Process
 5. Core Java
-6. Automation Testing
+6. Selenium
 7. Git & GitHub 
 
 PERSONAL PROJECTS:
@@ -24,5 +24,5 @@ Bachelor Of Computer Applications [Bangalore University]
 
 CONTACT DETAILS:<br>
 Email: manoj.a3009@gmail.com <br>
-LinkedIn: https://www.linkedin.com/in/manojkumar3009a <br>
+LinkedIn: https://www.linkedin.com/in/manoj3009 <br>
 GitHub: https://github.com/manoja3009
