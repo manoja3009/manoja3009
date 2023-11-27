@@ -24,4 +24,5 @@ Bachelor Of Computer Applications [Bangalore University]
 
 CONTACT DETAILS:<br>
 Email: manoj.a3009@gmail.com <br>
+LinkedIn: linkedin.com/in/manoj-kumar-a-672628252 <br>
 GitHub: https://github.com/manoja3009
