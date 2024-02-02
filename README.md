@@ -10,7 +10,8 @@ SKILLS:
 4. Agile Process
 5. Core Java
 6. Selenium
-7. Git & GitHub 
+7. API Testing (Postman)
+8. Git & GitHub 
 
 PERSONAL PROJECTS:
 1. Wrote 50+ comprehensive manual test cases for the ShopersStack website.
